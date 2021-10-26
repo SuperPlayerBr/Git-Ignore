@@ -1,0 +1,4 @@
+#Itens a serem ignorados
+*.jar
+*.xml
+node_modules
